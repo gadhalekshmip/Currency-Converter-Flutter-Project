@@ -21,5 +21,5 @@ A simple Flutter application that converts USD to INR using a fixed conversion r
 ## 📸 Screenshots
 
 ### Example Screenshot
-![Currency Converter App](Currency-Converter-Flutter-Project/ys.png)
+![Currency Converter App](ys.png)
 
